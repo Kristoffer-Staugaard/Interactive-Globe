@@ -1,0 +1,5 @@
+{
+  "name": "Interactive Globe",
+  "description": "An interactive 3D globe using COBE WebGL library.",
+  "requestFramePermissions": []
+}
